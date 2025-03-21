@@ -1,0 +1,27 @@
+[
+    {
+        "title": "my book",
+        "author": "book",
+        "year": 2002,
+        "genre": "study",
+        "read": true
+    },
+  
+    {
+        "title": "holy book",
+        "author": "islam",
+        "year": 400,
+        "genre": "islam",
+        "read": true
+    },
+    
+    {
+        "title": "biology",
+        "author": "book",
+        "year":2002,
+        "genre":"study",
+        "read":true
+        
+
+    }
+]
